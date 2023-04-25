@@ -1,0 +1,26 @@
+.bg-custom
+{
+    background-color: black;
+}
+.custom-txt
+{
+    color: #FD4533;
+}
+.custom-txt:hover
+{
+    color: white !important;
+}
+.navbar-nav li 
+{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.gap
+{
+padding-top: 90px;
+padding-bottom: 90px;
+}
+.download:hover{
+background:#FD4533; 
+color: white;
+}
